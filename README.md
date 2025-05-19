@@ -78,4 +78,4 @@ Password: admin
 Step-by-step payment and address input forms designed to simulate a real-world booking experience.
 
 🛠 Admin Dashboard
-Visual layout for hotel data management (adding, deleting, filtering listings - UI only).
+Visual layout for hotel data management (adding, deleting, filtering listings - UI only)
