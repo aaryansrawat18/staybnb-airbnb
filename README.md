@@ -1,81 +1,48 @@
-StayBnB - A Hotel Booking Website 🌍🏨
-Welcome to the GitHub repository for StayBnB, an Airbnb-inspired hotel booking web application built only using HTML and CSS. This frontend project showcases a user-friendly platform where travelers can explore hotel listings, make bookings, and admins can manage accommodations with ease.
+# 🌍 StayBnB – A Hotel Booking Website
 
-Live Demo: StayBnB Frontend
-(Backend for JSON server API - not part of this frontend-only project): Backend API
+Welcome to the GitHub repository for **StayBnB**, an Airbnb-inspired hotel booking web application built using **only HTML and CSS**. This frontend project offers a clean and responsive design where users can explore hotel listings, view payment and contact pages, and simulate admin-side operations like managing hotel merchants.
 
-📁 Project Type
-Frontend Only (HTML + CSS)
+---
 
-No JavaScript functionality is included in this version.
+## 📌 Project Highlights
 
-📂 Directory Structure
-css
-Copy
-Edit
-B33-Group1/
-├── index.html
-├── src/
-│   └── aboutUs.html
-│   └── style.css
-├── Admin Dashboard/
-│   ├── dashboard.html
-│   ├── merchants.html
-│   ├── dashboard.css
-│   └── merchants.css
-├── LoginPage/
-│   ├── index.html
-│   ├── crud.js (not used in this HTML/CSS-only build)
-│   └── script.js (not used in this HTML/CSS-only build)
-├── payment/
-│   ├── address.html
-│   ├── payment.html
-│   ├── address.css
-│   ├── payment.css
-├── ContactUsPage/
-│   └── contact_us.html
-│   └── contact_us.css
-✨ Features
-Clean and responsive homepage
+- ✅ Fully responsive and mobile-friendly UI
+- ✅ Inspired by real-world platforms like Airbnb
+- ✅ Modular directory structure
+- ✅ Pure frontend using HTML & CSS only
 
-Separate Login / Signup interface (visual only)
+---
 
-Admin dashboard UI to mimic hotel management
+## 🛠 Tech Stack
 
-Booking and payment pages (UI only)
+- **HTML5**
+- **CSS3**
 
-Contact Us and About Us pages
 
-🔔 Note: No backend logic or JavaScript-based interactivity is included in this version.
+---
 
-🚀 How to Run the Project
-Clone this repository:
+## 📂 Folder Structure
 
-bash
-Copy
-Edit
-git clone https://github.com/tashwini-p/B33-Group1.git
-Navigate to the project folder:
+![image](https://github.com/user-attachments/assets/352d9dae-6088-489e-9948-b6f765d0217c)
 
-bash
-Copy
-Edit
-cd B33-Group1
-Open index.html in your browser to start exploring the StayBnB website.
 
-📸 Screenshots
-🏠 Homepage
-A visually engaging landing page with navigation to listings and other pages.
 
-🔐 Login / Sign Up
-Static forms created using HTML/CSS. Credentials:
+## 🖼️ Screenshots
+![image](https://github.com/user-attachments/assets/ee427bc8-6d52-4614-bb2a-df90e509bf70)
+![image](https://github.com/user-attachments/assets/9b55ffbf-9ae4-43fc-aa05-55dde586d68b)
+![image](https://github.com/user-attachments/assets/f0b5981e-0f42-47e1-bcb7-4af101fe7eeb)
+![image](https://github.com/user-attachments/assets/dedb292f-26bb-4da4-a210-99df5cd53e1f)
+![image](https://github.com/user-attachments/assets/ef2d4f81-39c8-4fc9-8d66-f80544fc7336)
+![image](https://github.com/user-attachments/assets/a550da43-7d09-415a-867a-837ec6817e19)
 
-Username: admin
 
-Password: admin
 
-🧾 Booking & Payment
-Step-by-step payment and address input forms designed to simulate a real-world booking experience.
+## 🚀 Getting Started
 
-🛠 Admin Dashboard
-Visual layout for hotel data management (adding, deleting, filtering listings - UI only)
+To preview the project locally:
+
+```bash
+git clone https://github.com/your-username/StayBnB.git
+cd StayBnB
+open index.html  # or double-click the file
+
